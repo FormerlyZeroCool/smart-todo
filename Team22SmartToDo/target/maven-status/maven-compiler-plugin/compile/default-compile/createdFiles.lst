@@ -1,0 +1,7 @@
+com/andrewrs/sps/data/ListRecord.class
+com/andrewrs/sps/data/BlobKeyValuePair.class
+com/andrewrs/sps/utils/VisionApiUtils.class
+com/andrewrs/sps/utils/StringUtil.class
+com/google/sps/servlets/ImageDataServlet.class
+com/google/sps/servlets/DataServlet.class
+com/andrewrs/sps/utils/BlobStoreUtils.class
